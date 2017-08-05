@@ -1,6 +1,6 @@
 # SSG's pwnable Problem Solving page
 * __HELLO This is SSG's pwnable Problem Solving page__
-* __It makes me Crazy__
+* __It is very very very fun!__
 * __Due to 2017.08.31__
 
 ![SSG](http://2.bp.blogspot.com/_n7eQ5zqL7tM/SwUUR51_afI/AAAAAAAAAAw/n3UkLNoWCGY/s1600/ComputerSlave_2DtransGIF.gif)
