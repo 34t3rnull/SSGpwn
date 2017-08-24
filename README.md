@@ -7,4 +7,4 @@
 
 1. [easy_1](https://github.com/34t3rnull/SSGpwn/blob/master/easy_1%20%ED%92%80%EC%9D%B4.pdf) __CLEAR__
 2. [easy_2](https://github.com/34t3rnull/SSGpwn/blob/master/easy_2%20%ED%92%80%EC%9D%B4.pdf) __CLEAR__ <[Exploit Python Code](https://github.com/34t3rnull/SSGpwn/blob/master/easy_2_exploit.py)> 
-3. [easy_2](https://github.com/34t3rnull/SSGpwn/blob/master/mid_easy_1%20%ED%92%80%EC%9D%B4.pdf) __CLEAR__ <[Exploit Python Code](https://github.com/34t3rnull/SSGpwn/blob/master/mid_easy_1_exploit.py)> 
+3. [mid_easy_1](https://github.com/34t3rnull/SSGpwn/blob/master/mid_easy_1%20%ED%92%80%EC%9D%B4.pdf) __CLEAR__ <[Exploit Python Code](https://github.com/34t3rnull/SSGpwn/blob/master/mid_easy_1_exploit.py)> 
