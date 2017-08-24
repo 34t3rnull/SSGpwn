@@ -6,4 +6,4 @@
 ![SSG](http://2.bp.blogspot.com/_n7eQ5zqL7tM/SwUUR51_afI/AAAAAAAAAAw/n3UkLNoWCGY/s1600/ComputerSlave_2DtransGIF.gif)
 
 1. [easy_1](https://github.com/34t3rnull/SSGpwn/blob/master/easy_1%20%ED%92%80%EC%9D%B4.pdf) __CLEAR__
-2. easy_2 __ING__
+2. [easy_2](https://github.com/34t3rnull/SSGpwn/blob/master/easy_2%20%ED%92%80%EC%9D%B4.pdf) __CLEAR__ <[Exploit Python Code](https://github.com/34t3rnull/SSGpwn/blob/master/easy_2_exploit.py)> 
